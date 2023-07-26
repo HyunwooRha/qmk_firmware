@@ -24,6 +24,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MOUSEKEY_DELAY 5
 #define MOUSEKEY_MOVE_DELTA 6
 
+#define MK_KINETIC_WHEEL_MAXS 1
+#define MK_KINETIC_WHEEL_ACCN 32
+
 #define TAPPING_TERM_PER_KEY
 
 #define ONESHOT_TAP_TOGGLE 5
