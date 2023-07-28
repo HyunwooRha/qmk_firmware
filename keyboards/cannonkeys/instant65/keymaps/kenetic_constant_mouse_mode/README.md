@@ -15,17 +15,18 @@
     * Note that unlike the ``u`` and ``o`` keys, the ``x`` and ``z`` keys are ``right`` and ``left`` mouse buttons, respectively.
     
 * The mouse speed is controlled by the ``a`` key, the ``s`` key, and the ``d`` key, each one progressively increasing speed but *only* when held down
+    * This will lock the mouse speed
 
 * Keys ``n`` and ``m`` are the ``scroll up`` and ``scroll down`` keys, respectively, also being affected by the mouse acceleration keys
 
 * The default ``page up`` and ``page down`` remain unaffected
 
 ## Added tap dancing for the ``left alt`` key
-* Tapping the ``alt`` key turns the number row into the ``function row`` for a brief period of time
+* Tapping the ``alt`` key turns the ``number row`` into the ``function row`` for a brief period of time
 
 * Holding the ``alt`` key remains unchanged
 
-* Tapping then holding the ``alt`` key is thus equivalent to holding the ``alt`` key while having the number row as the ``function row``.
+* Tapping then holding the ``alt`` key is thus equivalent to holding the ``alt`` key while having the ``number row`` as the ``function row``.
 
 * This lets you do commands such as ``alt + f4`` by tapping the ``alt`` key, then holding the ``alt`` key, then pressing the ``4`` key.
 
