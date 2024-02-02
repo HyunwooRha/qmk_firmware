@@ -54,4 +54,4 @@
 
     * In order to save changes, you must compile the firmware and flash the keyboard
     
-* You can use Print Screen by holding or toggling the ``right fn`` key and pressing the ``del`` key
+* You can use Print Screen by holding the ``win`` key and pressing the ``ins`` key
