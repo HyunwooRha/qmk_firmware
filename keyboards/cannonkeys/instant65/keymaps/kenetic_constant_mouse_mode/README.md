@@ -44,7 +44,6 @@
     * Keys ``i``, ``j``, ``k``, and ``l`` will be the ``arrow keys`` but the dedicated ``arrow keys`` will remain unaffected
     
 ## Other changes
-* While using any key that has a unique function (i.e. the ``windows button`` or the ``left alt`` key), the insert key will be replaced with the ``insert`` key
 
 * To use the `` ` `` key and the ``~`` key, you must hold the ``windows button`` key and the ``esc`` key. Press the ``shift`` key to access the ``~`` character
 
