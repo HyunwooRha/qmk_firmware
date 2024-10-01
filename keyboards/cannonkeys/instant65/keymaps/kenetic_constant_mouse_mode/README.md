@@ -7,12 +7,12 @@
 
 ## Added number pad
 * Pressing the ``windows``key, then the ``space`` key enables a makeshift numberpad
-    * ``q`` is ``1``
-    * ``w`` is ``2``
-    * ``e`` is ``3``
+    * ``q`` is ``7``
+    * ``w`` is ``8``
+    * ``e`` is ``9``
     * ``a`` is ``4``
     * pattern continues...
-    * ``c`` is ``9``
+    * ``c`` is ``3``
     * ``ctrl`` is ``0``
     * ``windows`` is a ``.``
 
