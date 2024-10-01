@@ -1,4 +1,21 @@
 # Collective Changes
+## Screenshots
+* Pressing the ``windows`` button then pressing ``insert`` will be ``printscreen``
+    * note that to save a screenshot, windows requires you to press the ``windows`` key
+        * to do this, press ``alt`` (``windows`` + ``alt`` + ``insert`` to save a screenshot)
+            
+
+## Added number pad
+* Pressing the ``windows``key, then the ``space`` key enables a makeshift numberpad
+    * ``q`` is ``1``
+    * ``w`` is ``2``
+    * ``e`` is ``3``
+    * ``a`` is ``4``
+    * pattern continues...
+    * ``c`` is ``9``
+    * ``ctrl`` is ``0``
+    * ``windows`` is a ``.``
+
 ## Added mouse mode (a combined version of the kenetic mouse and constant mouse modes)
 * The mouse is controlled by the ``i`` key, the ``j`` key, the ``k`` key, and the ``l`` key
     * The ``i`` key moves the mouse up
@@ -42,6 +59,7 @@
     * Tapping the the ``left alt`` key activates the ``windows button``
 
     * Keys ``i``, ``j``, ``k``, and ``l`` will be the ``arrow keys`` but the dedicated ``arrow keys`` will remain unaffected
+* Fixed an issue getting stuck on a layer, unable to get out. Now press ``esc`` to return to the default layer
     
 ## Other changes
 * While using any key that has a unique function (i.e. the ``windows button`` or the ``left alt`` key), the insert key will be replaced with the ``insert`` key
