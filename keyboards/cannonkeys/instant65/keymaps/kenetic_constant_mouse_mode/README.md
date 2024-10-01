@@ -62,7 +62,6 @@
 * Fixed an issue getting stuck on a layer, unable to get out. Now press ``esc`` to return to the default layer
     
 ## Other changes
-* While using any key that has a unique function (i.e. the ``windows button`` or the ``left alt`` key), the insert key will be replaced with the ``insert`` key
 
 * To use the `` ` `` key and the ``~`` key, you must hold the ``windows button`` key and the ``esc`` key. Press the ``shift`` key to access the ``~`` character
 
@@ -72,3 +71,4 @@
 
     * In order to save changes, you must compile the firmware and flash the keyboard
     
+* You can use Print Screen by holding the ``win`` key and pressing the ``ins`` key
