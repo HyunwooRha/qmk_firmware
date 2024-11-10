@@ -17,12 +17,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
-#define MK_COMBINED
+// #define MK_COMBINED
+// #define MOUSEKEY_INTERVAL 6
+// #define MOUSEKEY_MAX_SPEED 7
+// #define MOUSEKEY_TIME_TO_MAX 60
+// #define MOUSEKEY_DELAY 5
+// #define MOUSEKEY_MOVE_DELTA 6
+
+
+#define MK_KENETIC_SPEED
 #define MOUSEKEY_INTERVAL 6
-#define MOUSEKEY_MAX_SPEED 7
-#define MOUSEKEY_TIME_TO_MAX 60
-#define MOUSEKEY_DELAY 5
-#define MOUSEKEY_MOVE_DELTA 6
+#define MOUSEKEY_INITIAL_SPEED 20
+#define MK_VARIANT MK_TYPE_KINETIC
+
+
 
 #define MK_KINETIC_WHEEL_MAXS 1
 #define MK_KINETIC_WHEEL_ACCN 32
@@ -30,7 +38,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define TAPPING_TERM_PER_KEY
 
 #define ONESHOT_TAP_TOGGLE 5
-#define ONESHOT_TIMEOUT 5000
+#define OS_OFF
+#define ONESHOT_TIMEOUT 2000
 
 #define TAPPING_TOGGLE 2
 #define TAPPING_TERM 280
