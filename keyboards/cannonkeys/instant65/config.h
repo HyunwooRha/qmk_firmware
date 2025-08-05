@@ -37,8 +37,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define TAPPING_TERM_PER_KEY
 
-#define ONESHOT_TAP_TOGGLE 5
-#define OS_OFF
 #define ONESHOT_TIMEOUT 2000
 
 #define TAPPING_TOGGLE 2
