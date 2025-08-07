@@ -24,16 +24,16 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define MOUSEKEY_DELAY 5
 // #define MOUSEKEY_MOVE_DELTA 6
 
-
+// Kenetic Mouse Settings
 #define MK_KENETIC_SPEED
-#define MOUSEKEY_INTERVAL 6
-#define MOUSEKEY_INITIAL_SPEED 20
-#define MK_VARIANT MK_TYPE_KINETIC
-
-
-
+#define MOUSEKEY_DELAY 3
+#define MOUSEKEY_INTERVAL 3
+#define MOUSEKEY_MOVE_DELTA 16
+#define MOUSEKEY_INITIAL_SPEED 10
+#define MOUSEKEY_BASE_SPEED 2500
 #define MK_KINETIC_WHEEL_MAXS 1
 #define MK_KINETIC_WHEEL_ACCN 32
+#define MK_MOMENTARY_ACCEL
 
 #define TAPPING_TERM_PER_KEY
 

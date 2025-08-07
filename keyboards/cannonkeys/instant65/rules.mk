@@ -12,8 +12,3 @@ AUDIO_ENABLE = no           # Audio output
 TAP_DANCE_ENABLE = yes 	    # Tap dance
 # Enter lower-power sleep mode when on the ChibiOS idle thread
 OPT_DEFS += -DCORTEX_ENABLE_WFI_IDLE=TRUE
-
-
-# Mouse Settings - Kinetic Mode
-# https://docs.qmk.fm/features/mouse_keys#accelerated-mode
-MK_KINETIC_SPEED
