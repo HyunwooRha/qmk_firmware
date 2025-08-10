@@ -35,9 +35,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MK_KINETIC_WHEEL_ACCN 32
 #define MK_MOMENTARY_ACCEL
 
-#define OS_OFF
+#define TAPPING_TERM_PER_KEY
 
-// for the TT()
+#define ONESHOT_TIMEOUT 2000
+
 #define TAPPING_TOGGLE 2
 #define TAPPING_TERM 280
 
