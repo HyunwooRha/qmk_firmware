@@ -4,6 +4,7 @@
 // Tap Dance declarations
 enum {
     TD_ALT_FN,
+	CT_CLN,
 };
 
 enum layer_names {
